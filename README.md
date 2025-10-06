@@ -5,6 +5,7 @@ This project helps practice DOM manipulation, event handling, and local storage.
 
 ## Features
 - Add new tasks
+- Edit existing tasks
 - Mark tasks as completed
 - Delete tasks
 - Data saved in browser local storage
@@ -19,6 +20,7 @@ This project helps practice DOM manipulation, event handling, and local storage.
 
 ## ویژگی‌ها
 - اضافه کردن تسک جدید
+- ویرایش تسک‌ها
 - علامت‌گذاری تسک‌ها به‌عنوان انجام‌شده
 - حذف تسک‌ها
 - ذخیره شدن اطلاعات در Local Storage مرورگر
